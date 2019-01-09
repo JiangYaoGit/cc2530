@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<userOverrides>
+  <override>
+    <path>C:\Users\Administrator\Desktop\SmartRoomGlib-V1.3.4\Projects\zstack\SmartRoom\AOK Motor\Source\AOKMotorUart.c</path>
+    <encoding>Win-1252</encoding>
+  </override>
+  <override>
+    <path>C:\Users\Administrator\Desktop\SmartRoomGlib-V1.3.4\Projects\zstack\SmartRoom\AOK Motor\Source\AOKMotorUserApp.c</path>
+    <encoding>Win-1252</encoding>
+  </override>
+  <override>
+    <path>C:\Users\Administrator\Desktop\SmartRoomGlib-V1.3.4\Projects\zstack\SmartRoom\AOK Motor\Source\AOKMotorUserApp.h</path>
+    <encoding>Win-1252</encoding>
+  </override>
+  <override>
+    <path>C:\Users\Administrator\Desktop\SmartRoomGlib-V1.3.4\Projects\zstack\SmartRoom\AOK Motor\Source\AOKService.c</path>
+    <encoding>Win-1252</encoding>
+  </override>
+  <override>
+    <path>C:\Users\Administrator\Desktop\SmartRoomGlib-V1.3.4\Projects\zstack\SmartRoom\AOK Motor\Source\AOKService.h</path>
+    <encoding>Win-1252</encoding>
+  </override>
+  <override>
+    <path>C:\Users\Administrator\Desktop\SmartRoomGlib-V1.3.4\Projects\zstack\SmartRoom\AOK Motor\Source\Tools\f8wDevice.cfg</path>
+    <encoding>Win-1252</encoding>
+  </override>
+  <override>
+    <path>C:\Users\Administrator\Desktop\SmartRoomGlib-V1.3.4\Projects\zstack\SmartRoom\Source\DeviceConfig.h</path>
+    <encoding>Win-1252</encoding>
+  </override>
+  <override>
+    <path>C:\Users\Administrator\Desktop\SmartRoomGlib-V1.3.4\Projects\zstack\SmartRoom\Source\hal_board_config.h</path>
+    <encoding>Win-1252</encoding>
+  </override>
+  <override>
+    <path>C:\Users\Administrator\Desktop\SmartRoomGlib-V1.3.4\Projects\zstack\ZMain\TI2530DB\OnBoard.h</path>
+    <encoding>Win-1252</encoding>
+  </override>
+  <override>
+    <path>C:\Users\Administrator\Desktop\work\&#x5468;&#x70AF;&#x6700;&#x65B0;\Code\Projects\zstack\SmartRoom\AOK Motor\Source\AOKService.c</path>
+    <encoding>Win-1252</encoding>
+  </override>
+  <override>
+    <path>F:\Work\SmartRoomGlib-V1.3.4s(AOK10min&#x4FDD;&#x62A4;5min)\SmartRoomGlib-V1.3.4s\Projects\zstack\SmartRoom\AOK Motor\Source\AOKMotorUserApp.c</path>
+    <encoding>Win-1252</encoding>
+  </override>
+  <override>
+    <path>F:\Work\SmartRoomGlib-V1.3.4s(AOK10min&#x4FDD;&#x62A4;5min)\SmartRoomGlib-V1.3.4s\Projects\zstack\SmartRoom\AOK Motor\Source\AOKService.c</path>
+    <encoding>Win-1252</encoding>
+  </override>
+</userOverrides>
+
+

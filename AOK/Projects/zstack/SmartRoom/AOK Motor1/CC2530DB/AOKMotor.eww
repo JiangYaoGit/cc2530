@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\AOKMotor.ewp</path>
+  </project>
+  <batchBuild>
+    <batchDefinition>
+      <name>SampleDevice</name>
+      <member>
+        <project>SampleDevice</project>
+        <configuration>EndDeviceEB</configuration>
+      </member>
+      <member>
+        <project>SampleDevice</project>
+        <configuration>EndDeviceEB-PA</configuration>
+      </member>
+      <member>
+        <project>SampleDevice</project>
+        <configuration>RouterEB</configuration>
+      </member>
+      <member>
+        <project>SampleDevice</project>
+        <configuration>RouterEB-PA</configuration>
+      </member>
+      <member>
+        <project>SampleDevice</project>
+        <configuration>EndDeviceEB-AutoStart</configuration>
+      </member>
+      <member>
+        <project>SampleDevice</project>
+        <configuration>EndDeviceEB-PA-AutoStart</configuration>
+      </member>
+      <member>
+        <project>SampleDevice</project>
+        <configuration>RouterEB-AutoStart</configuration>
+      </member>
+      <member>
+        <project>SampleDevice</project>
+        <configuration>RouterEB-PA-AutoStart</configuration>
+      </member>
+    </batchDefinition>
+  </batchBuild>
+</workspace>
+
+

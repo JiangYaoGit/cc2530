@@ -1,0 +1,34 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=-981926318
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Count=0
+[ChipconEmu]
+Stop timers on halt=0
+Leave target running=1
+[Aliases]
+A0=_ "E:\SmartRoom\SmartRoomGlib-CC2530\Components\mac\low_level\srf04\mac_rx_onoff.c" ""
+A1=_ "E:\SmartRoom\SmartRoomGlib-CC2530\Components\osal\common\OSAL.c" ""
+A2=_ "E:\SmartRoom\SmartRoomGlib-CC2530\Components\osal\common\OSAL_Clock.c" ""
+Count=3
+SuppressDialog=1
